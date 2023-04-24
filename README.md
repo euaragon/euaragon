@@ -4,11 +4,14 @@
 
 🔭 Podés encontrar mi trabajo en [www.eugenioaragon.com.ar](http://eugenioaragon.com.ar/)
 
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
 ## Tecnologías que se usar
 
-<i class="fa fa-js"></i> JavaScript
-<i class="fab fa-html5"></i> HTML
-<i class="fab fa-css3"></i> CSS
+- <i class="fa fa-js"></i> JavaScript
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3"></i> CSS
 
 
 
