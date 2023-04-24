@@ -12,8 +12,9 @@
   - <i class="fab fa-css3"></i> CSS
   - <i class="fa fa-js"></i> JavaScript
   - <i class="fab fa-react"></i> React
-
-
+  - <i class="fas fa-code"></i> Visual Studio Code
+  - <i class="fas fa-database"></i> PostgreSQL
+  
 
 
 <!--
