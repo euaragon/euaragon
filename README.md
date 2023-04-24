@@ -7,10 +7,15 @@
 
 ## Technologies I use and skills that distinguish me
 
-
-<i class="fab fa-html5"></i> HTML5
-<i class="fab fa-css3"></i> CSS3
-<i class="fa fa-js"></i> JavaScript
+- Web Design
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- React
+- PostgreSQL
+- Sequelize
+- Node
 
 
 You can also find me on [Instagram](https://www.instagram.com/eugenioaragon.dev/) and [LinkedIn](https://www.linkedin.com/in/eugenioaragon/)
