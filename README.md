@@ -5,12 +5,13 @@
 🔭 Podés encontrar mi trabajo en [www.eugenioaragon.com.ar](http://eugenioaragon.com.ar/)
 
 
-## Tecnologías que se usar
+## Tecnologías que se usar y habilidades que me distinguen
 
-- <i class="fa fa-js"></i> JavaScript
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3"></i> CSS
-
+  - <i class="fas fa-palette"></i> Diseño web
+  -  - <i class="fab fa-html5"></i> HTML
+  - <i class="fab fa-css3"></i> CSS
+  - <i class="fa fa-js"></i> JavaScript
+  - <i class="fab fa-react"></i> React
 
 
 
