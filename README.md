@@ -2,9 +2,14 @@
 
 ### Hola!👋 Soy Eugenio, Full Stack Developer, Diseñador Multimedia y Fotógrafo
 
-
-
 🔭 Podés encontrar mi trabajo en [www.eugenioaragon.com.ar](http://eugenioaragon.com.ar/)
+
+## Tecnologías que se usar
+
+<i class="fa fa-js"></i> JavaScript
+<i class="fab fa-html5"></i> HTML
+<i class="fab fa-css3"></i> CSS
+
 
 
 
