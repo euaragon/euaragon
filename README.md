@@ -11,7 +11,7 @@
   <i class="fab fa-html5"></i> HTML
   <i class="fab fa-css3"></i> CSS
   <i class="fa fa-js"></i> JavaScript
-<i class="fab fa-react"></i> React
+  <i class="fab fa-react"></i> React
 
 
 
