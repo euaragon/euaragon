@@ -7,7 +7,7 @@
 
 ## Tecnologías que se usar y habilidades que me distinguen
 
-  - <i class="fas fa-palette"> Diseño web</i>
+  - <i class="fa-solid fa-palette"></i>Diseño Web
   - <i class="fab fa-html5"></i> HTML
   - <i class="fab fa-css3"></i> CSS
   - <i class="fa fa-js"></i> JavaScript
