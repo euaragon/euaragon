@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/97991009/234075029-ff89ee90-67d8-4afa-b128-3a115f0234fd.png" alt="marca-blanca" width="200"/> 
+![linkedin](https://user-images.githubusercontent.com/97991009/234093422-c73f26c3-d609-4144-bbab-709d12d4681a.jpg)
 
 ### Hello!👋 I'm Eugenio, a Full Stack Developer, Multimedia Designer and Photographer from Mendoza, Argentina
 
@@ -6,6 +6,7 @@
 
 
 ## Technologies I use and skills that distinguish me
+
 
 - Web Design
 - HTML5
