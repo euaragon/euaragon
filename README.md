@@ -1,4 +1,6 @@
-![marca-blanca](https://user-images.githubusercontent.com/97991009/234075029-ff89ee90-67d8-4afa-b128-3a115f0234fd.png) ### Hola!👋 Soy Eugenio, Full Stack Developer, Diseñador Multimedia y Fotógrafo
+![marca-blanca](https://user-images.githubusercontent.com/97991009/234075029-ff89ee90-67d8-4afa-b128-3a115f0234fd.png = 250x) ### Hola!👋 Soy Eugenio, Full Stack Developer, Diseñador Multimedia y Fotógrafo
+
+
 
 Podés encontrar mi trabajo en [https](http://eugenioaragon.com.ar/)
 
