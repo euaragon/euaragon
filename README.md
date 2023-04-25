@@ -2,7 +2,7 @@
 
 # Hello!👋 My name is Eugenio Aragón
 
-## I am a Full Stack Developer, Multimedia Designer and Photographer from Mendoza, Argentina
+### I am a Full Stack Developer, Multimedia Designer and Photographer from Mendoza, Argentina
 
 My goal is to be as committed as possible to helping my clients shape their brand identity through the use of compelling graphic designs.
 
