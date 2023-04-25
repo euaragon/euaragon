@@ -19,7 +19,7 @@ I am very creative, proactive, and deeply passionate and committed to my work.
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript
+- <i class="fa fa-js"></i> JavaScript
 - React
 - PostgreSQL
 - Sequelize
