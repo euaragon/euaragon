@@ -4,10 +4,10 @@
 
 Committed to helping clients shape their brand identity through the use of compelling graphic designs.
 
-I am a Full Stack Developer, although my true passion lies on the FrontEnd side!
-I am also a portrait, product, and event photographer.
+🕸️ I am a Full Stack Developer, although my true passion lies on the FrontEnd side!
+📸 I am also a portrait, product, and event photographer.
 
-I am very creative, proactive, and deeply passionate and committed to my work.
+💥 I am very creative, proactive, and deeply passionate and committed to my work.
 
 🔭 You can find my work at [www.eugenioaragon.com.ar](http://eugenioaragon.com.ar/)
 
@@ -15,12 +15,12 @@ I am very creative, proactive, and deeply passionate and committed to my work.
 ## Technologies I use and skills that distinguish me
 
 
-- Web Design
-- HTML5
-- CSS3
-- Bootstrap
-- <i class="fa fa-js"></i> JavaScript
-- React
+- 🖥️ Web Design
+- 🏗️ HTML5
+- 🎨 CSS3
+- 👢 Bootstrap
+- ⌨️ JavaScript
+- ⚛️ React
 - PostgreSQL
 - Sequelize
 - Node
