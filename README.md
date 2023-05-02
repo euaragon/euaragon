@@ -28,6 +28,6 @@ My goal is to be as committed as possible to helping my clients shape their bran
 - Node
 
 
-You can also find me on [Instagram](https://www.instagram.com/eugenioaragon.dev/) and [LinkedIn](https://www.linkedin.com/in/eugenioaragon/)
+You can also find me on [Instagram](https://www.instagram.com/ph.eugenioaragon/) and [LinkedIn](https://www.linkedin.com/in/eugenioaragon/)
 
 
