@@ -23,9 +23,10 @@ My goal is to be as committed as possible to helping my clients shape their bran
 - 👢 Bootstrap
 - ⌨️ JavaScript
 - ⚛️ React
-- PostgreSQL
-- Sequelize
-- Node
+- ASP.NET 8
+- Blazor
+- SQL Server
+
 
 
 You can also find me on [Instagram](https://www.instagram.com/ph.eugenioaragon/) and [LinkedIn](https://www.linkedin.com/in/eugenioaragon/)
